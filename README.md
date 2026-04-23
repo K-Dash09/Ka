@@ -239,6 +239,5 @@ setInterval(() => {
 }, 350);
 </script>
 
-<audio auto play loop>
-<source src="música.mp3.mp3">
+<audio controls auto play loop>
 <source src="música.mp3.mp3">
