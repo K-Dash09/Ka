@@ -105,7 +105,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 </div>
 
 <section>
-    <h2>unas cuantas fotos y videos de este añito juntos </h2>
+    <h2>unas cuantas fotos de este añito juntos </h2>
 
 <div class="gallery">
     <img src="a.jpg.jpg"/>
@@ -143,7 +143,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 
 <section>
     <h2> 𝚎𝚜𝚙𝚎𝚛𝚘 𝚝𝚎 𝚑𝚊𝚢𝚊 𝚐𝚞𝚜𝚝𝚊𝚍𝚘 𝚕𝚎 𝚑𝚎𝚌𝚑𝚎 𝚐𝚊𝚗𝚒𝚝𝚊𝚜💗💗💗 </h2>
-    <p> se que no es la gran cosa pudo haber quedado muchisimo mejor pero fue con muchisimo cariño,mi amor.
+    <p> se que no es la gran cosa pudo haber quedado muchisimo mejor pero fue con muchisimo cariño,mi amor.</p>
         
 Un último mensajito, mi amor quiero que sepas que estoy aquí para ti, para lo que necesites y en cualquier momento. No estás sola, cuentas conmigo siempre.  
 
