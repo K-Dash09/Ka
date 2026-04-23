@@ -86,7 +86,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 <body>
 
 <audio id="música.mp3.mp3" loop>
-    <source src="música.mp3.mp3" type="audio/mpeg">
+    <source src="KDA.mp3.mp3" type="audio/mpeg">
 </audio>
 
 <section class="visible">
@@ -128,16 +128,6 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
     <img src="o.jpg.jpg"/>
     <source src="c.mp4.mp4">
 </div>
-  <video controls>
-    <source src="a.mp4.mp4" type="video/mp4">
-  </video>
-  <video controls>
-    <source src="b.mp4.mp4" type="video/mp4">
-  </video>
-  <video controls>
-    <source src="c.mp4.mp4" type="video/mp4">
-  </video>
-
     
 <section id="carta-amor">
     <div style="background: rgba(255, 255, 255, 0.15); padding: 30px; border-radius: 20px; max-width: 700px; margin: 0 auto; line-height: 1.8; backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.2);">
@@ -179,7 +169,7 @@ No tienes que cargar todo tú sola porque estoy contigo, hoy, mañana ,pasado o 
 <script>
 function iniciarTodo() {
    
-    const musica = document.getElementById("música.mp3.mp3");
+    const musica = document.getElementById("KDA.mp3.mp3");
     musica.play();
     
   
@@ -240,4 +230,4 @@ setInterval(() => {
 </script>
 
 <audio controls auto play loop>
-<source src="música.mp3.mp3">
+<source src="KDA.mp3.mp3">
