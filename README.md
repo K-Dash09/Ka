@@ -85,10 +85,6 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 
 <body>
 
-<audio id="música.mp3.mp3" loop>
-    <source src="KDA.mp3.mp3" type="audio/mpeg">
-</audio>
-
 <section class="visible">
     <h1>𝙽𝚞𝚎𝚜𝚝𝚛𝚘 𝚙𝚛𝚒𝚖𝚎𝚛 𝚊𝚗̃𝚘 𝚓𝚞𝚗𝚝𝚘𝚜💗</h1>
     <p>24 - El día donde lo nuestro empezó</p>
@@ -97,7 +93,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 </p> dale play a la musica no la logre poner en automatico 😔
 <audio controls auto play loop>
 <source src="KDA.mp3.mp3">
-    
+</script>
 <section id="historia">
     <h2>𝙲𝚘𝚖𝚘 𝚕𝚘 𝚗𝚞𝚎𝚜𝚝𝚛𝚘 𝚎𝚖𝚙𝚎𝚣ó</h2>
     <p>Ese día donde nos cruzamos por primera vez me dejaste abobado con tus ojazos. No me cabía la idea de que nuestros caminos se fueran a cruzar una segunda vez, pero aquí estamos, demostrando que algunas historias están escritas para no terminarse nunca.</p>
@@ -230,4 +226,3 @@ setInterval(() => {
     
     setTimeout(() => { gota.remove(); }, 5000);
 }, 350);
-</script>
