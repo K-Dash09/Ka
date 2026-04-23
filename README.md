@@ -110,20 +110,20 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 
 <div class="gallery">
     <img src="a.jpg.jpg"/>
-    <img src="b.jpg">
-    <img src="c.jpg">
-    <img src="d.jpg">
-    <img src="e.jpg">
-    <img src="f.jpg">
-    <img src="g.jpg.jpg">
-    <img src="h.jpg">
-    <img src="i.jpg">
-    <img src="j.jpg">
-    <img src="k.jpg">
-    <img src="l.jpg">
-    <img src="m.jpg">
-    <img src="n.jpg">
-    <img src="o.jpg">
+    <img src="b.jpg.jpg"/>
+    <img src="c.jpg.jpg"/>
+    <img src="d.jpg.jpg"/>
+    <img src="e.jpg.jpg"/>
+    <img src="f.jpg.jpg"/>
+    <img src="g.jpg.jpg"/>
+    <img src="h.jpg.jpg"/>
+    <img src="i.jpg.jpg"/>
+    <img src="j.jpg.jpg"/>
+    <img src="k.jpg.jpg"/>
+    <img src="l.jpg.jpg"/>
+    <img src="m.jpg.jpg"/>
+    <img src="n.jpg.jpg"/>
+    <img src="o.jpg.jpg"/>
 </div>
 </section>
 
