@@ -86,7 +86,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
 <body>
 
 <audio id="musica" loop>
-    <source src="musica.mp3" type="audio/mpeg">
+    <source src="música.mp3.mp3" type="audio/mpeg">
 </audio>
 
 <section class="visible">
@@ -113,20 +113,32 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
     <img src="b.jpg.jpg"/>
     <img src="c.jpg.jpg"/>
     <img src="d.jpg.jpg"/>
-    <img src="e.jpg.jpg"/>
+<source src="a.mp4.mp4">   
+<img src="e.jpg.jpg"/>
     <img src="f.jpg.jpg"/>
     <img src="g.jpg.jpg"/>
     <img src="h.jpg.jpg"/>
     <img src="i.jpg.jpg"/>
     <img src="j.jpg.jpg"/>
+  <source src="b.mp4.mp4">
     <img src="k.jpg.jpg"/>
     <img src="l.jpg.jpg"/>
     <img src="m.jpg.jpg"/>
     <img src="n.jpg.jpg"/>
     <img src="o.jpg.jpg"/>
+    <source src="c.mp4.mp4">
 </div>
-</section>
+  <video controls>
+    <source src="a.mp4.mp4" type="video/mp4">
+  </video>
+  <video controls>
+    <source src="b.mp4.mp4" type="video/mp4">
+  </video>
+  <video controls>
+    <source src="c.mp4.mp4" type="video/mp4">
+  </video>
 
+    
 <section id="carta-amor">
     <div style="background: rgba(255, 255, 255, 0.15); padding: 30px; border-radius: 20px; max-width: 700px; margin: 0 auto; line-height: 1.8; backdrop-filter: blur(5px); border: 1px solid rgba(255,255,255,0.2);">
         <p>
@@ -150,7 +162,6 @@ En los días buenos voy a celebrar contigo, y en los días difíciles voy a qued
 No tienes que cargar todo tú sola porque estoy contigo, hoy, mañana ,pasado o hasta cuando no nos entendamos demasiado .💗💗 </p>
     <button class="btn" onclick="mostrarSorpresa()">No presiones esto</button>
     <p id="sorpresa" class="hidden">Sabía que lo ibas a hacer y por eso te voy a dar jaksjajaja te amo muchísimo pero si te voy a dar 😏😘</p>
-</section>
 
 <section id="ahora si un ultimo mensajito ">
     <h2>Un último detalle❤️</h2>
@@ -163,13 +174,13 @@ No tienes que cargar todo tú sola porque estoy contigo, hoy, mañana ,pasado o 
         </h1>
         <p style="font-size: 1.3em;">Prometo cuidarte y amarte cada día.Hasta que mi corazón deje de latir y sea lo que haya después también prometo cuidarte y amarte.💗✨😛</p>
         <div style="font-size: 70px;">💗</div>
-    </div>
-</section>
+
+
 
 <script>
 function iniciarTodo() {
    
-    const musica = document.getElementById("miMusica");
+    const musica = document.getElementById("música.mp3.mp3");
     musica.play();
     
   
@@ -228,6 +239,3 @@ setInterval(() => {
     setTimeout(() => { gota.remove(); }, 5000);
 }, 350);
 </script>
-
-</body>
-</html>
