@@ -133,8 +133,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
         <p>
             Muchas gracias por este año tan especial a tu lado. Me gustaría seguir caminando contigo hasta donde la vida nos lleve, en los momentos buenos y también en los difíciles, cuando todo salga bien y cuando no tanto.
         </p>
-        <p>
-            Quiero estar para ti en cada etapa, apoyarte, escucharte y crecer juntos. Y si en algún momento tenemos problemas, me gustaría que los enfrentemos juntos, porque no quiero perderte.
+    <p>Quiero estar para ti en cada etapa, apoyarte, escucharte y crecer juntos. Y si en algún momento tenemos problemas, me gustaría que los enfrentemos juntos, porque no quiero perderte.
         </p>
         <p style="font-weight: bold; font-size: 1.1em;">
             Eres de lo más valioso que tengo. Llegaste a mi vida y me diste una nueva forma de ver las cosas. Gracias a ti, hoy tengo más ganas de seguir adelante… y me gustaría que sea contigo.
