@@ -171,7 +171,6 @@ No tienes que cargar todo tú sola porque estoy contigo, hoy, mañana ,pasado o 
 <button class="btn" id="btnSorpresa" onclick="lanzarFinal()">
     <p>Cuando nos veamos abrázame y apriétame fuerte la verga para prometerme amarnos para siempre 🙀💗
           <p> otra cosa Si llegamos a tener hijos el primer nombre yo lo escojo🫶🏼🫶🏼 </p>
-        </h1>
         <p style="font-size: 1.3em;">Prometo cuidarte y amarte cada día.Hasta que mi corazón deje de latir y sea lo que haya después también prometo cuidarte y amarte.💗✨😛</p>
         <div style="font-size: 70px;">💗</div>
 
@@ -239,3 +238,7 @@ setInterval(() => {
     setTimeout(() => { gota.remove(); }, 5000);
 }, 350);
 </script>
+
+<audio auto play loop>
+<source src="música.mp3.mp3">
+<source src="música.mp3.mp3">
