@@ -109,7 +109,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
     <h2>unas cuantas fotos y videos de este añito juntos </h2>
 
 <div class="gallery">
-    <img src="a.jpg">
+    <img src="a.jpg.jpg"/>
     <img src="b.jpg">
     <img src="c.jpg">
     <img src="d.jpg">
