@@ -115,7 +115,7 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
     <img src="d.jpg">
     <img src="e.jpg">
     <img src="f.jpg">
-    <img src="g.jpg">
+    <img src="g.jpg.jpg">
     <img src="h.jpg">
     <img src="i.jpg">
     <img src="j.jpg">
