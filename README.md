@@ -90,10 +90,10 @@ h1 { font-size: 2.5em; margin-bottom: 10px; }
     <p>24 - El día donde lo nuestro empezó</p>
     <button class="btn" onclick="iniciarTodo()">Puchale 😀</button>
 </section>
-</p> dale play a la musica no la logre poner en automatico 😔
+ dale play a la musica no la logre poner en automatico 😔
 <audio controls auto play loop>
 <source src="KDA.mp3.mp3">
-</script>
+</audio>
 <section id="historia">
     <h2>𝙲𝚘𝚖𝚘 𝚕𝚘 𝚗𝚞𝚎𝚜𝚝𝚛𝚘 𝚎𝚖𝚙𝚎𝚣ó</h2>
     <p>Ese día donde nos cruzamos por primera vez me dejaste abobado con tus ojazos. No me cabía la idea de que nuestros caminos se fueran a cruzar una segunda vez, pero aquí estamos, demostrando que algunas historias están escritas para no terminarse nunca.</p>
@@ -226,3 +226,4 @@ setInterval(() => {
     
     setTimeout(() => { gota.remove(); }, 5000);
 }, 350);
+</script>
